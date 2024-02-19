@@ -1,0 +1,7 @@
+# An important potin in the business plan, especially for telecommunications businesses, is to check if the customers are going to have payment delays. As you may know, this point is important for business budget and strategy.
+
+# This purpose of this project is to anticipate which users are about to have payment delays.
+
+# This project is based on classical classification algorithms, considering the reduced size of the dataset.
+
+# For future development, it is importnat to test the algorithms on multiple datasets and more complex algorithms can be included in the list, based on the size of the data and the number of features.
